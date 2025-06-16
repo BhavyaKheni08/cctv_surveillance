@@ -1,7 +1,8 @@
 import os
 
-YOLO_GENERAL_MODEL_PATH = "models/yolov8n.pt"
-YOLO_POSE_MODEL_PATH = "models/yolov8s-pose.pt"
+
+YOLO_GENERAL_MODEL_PATH = "/Users/bhavyakheni/Desktop/cctv_surveillance/models/yolo11l.pt"
+YOLO_POSE_MODEL_PATH = "/Users/bhavyakheni/Desktop/cctv_surveillance/models/yolov8l-pose.pt"
 
 DEFAULT_VIDEO_SOURCE = "/Users/bhavyakheni/Desktop/cctv_surveillance/VIdoes/No_Parking.mov"
 
